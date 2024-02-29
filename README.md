@@ -93,6 +93,8 @@ Delve into statistical insights with these visualizations:
 Special thanks to Joseph Cheng and Kaggle for providing the comprehensive Olympic Games dataset, which served as the backbone of this project. 
 Additionally, gratitude to the Tableau and MySQL communities for their invaluable resources and support in visualizing and analyzing the data.
 
+Background images used in visualizations courtesy of Adobe Stock.
+
 This README provides an overview of the project. For a closer look at the visualizations and insights, please refer to the respective files in the repository.
 
 
